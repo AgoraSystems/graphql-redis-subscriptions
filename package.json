@@ -1,14 +1,11 @@
 {
-  "name": "@AgoraSystems/graphql-redis-subscriptions",
+  "name": "graphql-redis-subscriptions",
   "version": "2.4.2-agora1",
   "description": "A graphql-subscriptions PubSub Engine using redis",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/AgoraSystems/graphql-redis-subscriptions.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "graphql",
